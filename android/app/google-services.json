@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340366970794",
+    "project_id": "cihaz-ai",
+    "storage_bucket": "cihaz-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340366970794:android:4f25e1e6a0e4f0896a25d3",
+        "android_client_info": {
+          "package_name": "com.neovite.cihazai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-VWXVcx7WGzAjl3Vq-qBaqwbEl6FdxIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

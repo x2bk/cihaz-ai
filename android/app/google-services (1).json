@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "340366970794",
+    "project_id": "cihaz-ai",
+    "storage_bucket": "cihaz-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340366970794:android:4f25e1e6a0e4f0896a25d3",
+        "android_client_info": {
+          "package_name": "com.neovite.cihazai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340366970794-14tiibib4fe7p4sbh6k4k2e47v55he3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neovite.cihazai",
+            "certificate_hash": "b3cdb0da1e277052302aebec10db89e0eb02ea40"
+          }
+        },
+        {
+          "client_id": "340366970794-ppi8ovma5uji7g7kvpsnc6ktum49talm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-VWXVcx7WGzAjl3Vq-qBaqwbEl6FdxIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340366970794-ppi8ovma5uji7g7kvpsnc6ktum49talm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

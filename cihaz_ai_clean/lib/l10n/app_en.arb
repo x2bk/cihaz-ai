@@ -1,0 +1,20 @@
+{
+  "appTitle": "What's On My Device",
+  "settings": "Settings",
+  "addDevice": "Add Device",
+  "deviceCategory": "Device Category",
+  "deviceBrand": "Device Brand",
+  "deviceModel": "Device Model",
+  "deviceYear": "Year of Manufacture",
+  "deviceSerial": "Serial No (Optional)",
+  "save": "Save",
+  "cancel": "Cancel",
+  "cloudBackup": "Cloud Backup",
+  "cloudRestore": "Restore from Cloud",
+  "theme": "Theme",
+  "language": "Language",
+  "serviceHistory": "Service History",
+  "addService": "Add Service",
+  "batteryHealth": "Battery Health",
+  "storageStatus": "Storage Status"
+}

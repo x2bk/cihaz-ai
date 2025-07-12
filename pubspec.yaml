@@ -1,0 +1,51 @@
+name: automindai
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  
+  # Firebase
+  firebase_core: ^3.15.1
+  firebase_auth: ^5.6.2
+  cloud_firestore: ^5.6.11
+  firebase_storage: ^12.4.9
+  firebase_database: ^11.3.9
+  firebase_dynamic_links: ^6.1.9
+  
+  # Authentication
+  google_sign_in: ^7.1.0
+  flutter_facebook_auth: 7.1.2
+  sign_in_with_apple: ^7.0.1
+  
+  # UI & Navigation
+  flutter_svg: ^2.2.0
+  
+  # Location & Services
+  geolocator: ^14.0.2
+  
+  # Notifications
+  flutter_local_notifications: ^19.3.0
+  
+  # Utilities
+  share_plus: ^11.0.0
+  timezone: ^0.10.1
+  device_info_plus: ^11.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/ 

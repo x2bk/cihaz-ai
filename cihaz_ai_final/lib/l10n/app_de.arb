@@ -1,0 +1,20 @@
+{
+  "appTitle": "Was ist auf meinem Gerät",
+  "settings": "Einstellungen",
+  "addDevice": "Gerät hinzufügen",
+  "deviceCategory": "Gerätekategorie",
+  "deviceBrand": "Gerätemarke",
+  "deviceModel": "Gerätemodell",
+  "deviceYear": "Herstellungsjahr",
+  "deviceSerial": "Seriennummer (Optional)",
+  "save": "Speichern",
+  "cancel": "Abbrechen",
+  "cloudBackup": "Cloud-Backup",
+  "cloudRestore": "Aus Cloud wiederherstellen",
+  "theme": "Design",
+  "language": "Sprache",
+  "serviceHistory": "Serviceverlauf",
+  "addService": "Service hinzufügen",
+  "batteryHealth": "Batteriezustand",
+  "storageStatus": "Speicherstatus"
+} 

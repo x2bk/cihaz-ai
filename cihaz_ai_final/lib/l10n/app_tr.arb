@@ -1,0 +1,20 @@
+{
+  "appTitle": "Cihazımda Ne Var",
+  "settings": "Ayarlar",
+  "addDevice": "Cihaz Ekle",
+  "deviceCategory": "Cihaz Kategorisi",
+  "deviceBrand": "Cihaz Markası",
+  "deviceModel": "Cihaz Modeli",
+  "deviceYear": "Üretim Yılı",
+  "deviceSerial": "Seri No (Opsiyonel)",
+  "save": "Kaydet",
+  "cancel": "İptal",
+  "cloudBackup": "Buluta Yedekle",
+  "cloudRestore": "Buluttan Geri Yükle",
+  "theme": "Tema",
+  "language": "Dil",
+  "serviceHistory": "Servis Geçmişi",
+  "addService": "Servis Ekle",
+  "batteryHealth": "Batarya Sağlığı",
+  "storageStatus": "Depolama Durumu"
+}
